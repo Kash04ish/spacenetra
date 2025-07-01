@@ -1,4 +1,3 @@
-import React from "react";
 
 // Generate a random date between two dates
 function getRandomDate(start, end) {
