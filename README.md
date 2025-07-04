@@ -1,3 +1,4 @@
+Deployed Link: https://spacenetra-ncs7.vercel.app/
 # SpaceNetra AI Bot
 A smart ISRO assistant that retrieves mission data via Neo4j and answers queries with GPT fallback. Includes visual dashboards for mission analytics.
 
